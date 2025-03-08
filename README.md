@@ -1,3 +1,4 @@
 Xin Chào!
 Mong Nga
-Tính năng mới
+Tính năng mới.
+Trần Hải.
